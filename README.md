@@ -10,13 +10,13 @@
 <h2>Software Development Education</h2>
 
 ```javascript
-  const courses {
-    "web-development": "completed",
-    "intro-to-programming": "completed",
-    "javascript": "completed",
-    "C#-and-.net": "completed",
-    "algorithms-and-data-structures": "in-progress",
-    "relational-database-design": "unstarted",
+  const coursesCompleted {
+    "web-development": true,
+    "intro-to-programming": true,
+    "javascript": true,
+    "C#-and-.net": true,
+    "algorithms-and-data-structures": undefined,
+    "relational-database-design": undefined,
   }
 ```
 
