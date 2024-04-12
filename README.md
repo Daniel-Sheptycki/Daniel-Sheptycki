@@ -1,4 +1,5 @@
 ### Hi there 👋
+![Picture of bird](https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Eopsaltria_australis_-_Mogo_Campground.jpg/640px-Eopsaltria_australis_-_Mogo_Campground.jpg)
 
 <!--
 **Daniel-Sheptycki/Daniel-Sheptycki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
