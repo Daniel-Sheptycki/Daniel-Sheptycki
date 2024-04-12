@@ -5,7 +5,7 @@
 <p>- 🌱 I’m currently learning algorithim's and data structure's.</p>
 <p>- ⚡ Fun fact: I love working out and fitness.</p>
 <p>- 😄 Pronouns: He/Him.</p>
-
+<hr />
 
 
 
