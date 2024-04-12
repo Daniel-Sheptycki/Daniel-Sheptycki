@@ -1,4 +1,3 @@
-![Picture of bird]()
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Eopsaltria_australis_-_Mogo_Campground.jpg/640px-Eopsaltria_australis_-_Mogo_Campground.jpg" align="right" />
   ### Hello 👋 i'm Danny,
 - 🧑‍🎓 I'm a Software Development student at [MITT](https://mitt.ca/).
