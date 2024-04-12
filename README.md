@@ -1,4 +1,4 @@
-<img src="https://github.com/Daniel-Sheptycki/Daniel-Sheptycki/blob/main/Possible%20Background.jpg"/>
+<img src="https://github.com/Daniel-Sheptycki/Daniel-Sheptycki/blob/main/Background.jpg"/>
 <p><b>Hello 👋 i'm Danny,</b></p>
 <p>- 🧑‍🎓 I'm a Software Development student at <a href="https://mitt.ca" target="_blank">MITT</a></p>
 <p>- 💻 My favourite language is JavaScript.</p>
