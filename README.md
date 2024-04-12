@@ -10,7 +10,7 @@
 <h2>Software Development Education</h2>
 
 ```javascript
-  const coursesCompleted {
+  const courses {
     "web-development": 96,
     "intro-to-programming": 84,
     "javascript": 98,
