@@ -11,11 +11,11 @@
 
 ```javascript
   const coursesCompleted {
-    "web-development": true,
-    "intro-to-programming": true,
-    "javascript": true,
-    "C#-and-.net": true,
-    "algorithms-and-data-structures": undefined,
+    "web-development": 96,
+    "intro-to-programming": 84,
+    "javascript": 98,
+    "C#-and-.net": 98,
+    "algorithms-and-data-structures": 100, //Unfinished
     "relational-database-design": undefined,
   }
 ```
