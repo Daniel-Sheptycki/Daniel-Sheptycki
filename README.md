@@ -11,12 +11,12 @@
 
 ```javascript
   const courses {
-    web-development: "A+",
-    intro-to-programming: "C+",
-    javascript: "A+",
-    C#-&-dot-net: "A+",
-    algorithms-and-data-structures: "A+", //Unfinished
-    relational-database-design: undefined,
+    "web-development": "A+",
+    "intro-to-programming": "C+",
+    "javascript": "A+",
+    "C#-&-dot-net": "A+",
+    "algorithms-and-data-structures": "A+", //Unfinished
+    "relational-database-design": undefined,
   }
 ```
 
