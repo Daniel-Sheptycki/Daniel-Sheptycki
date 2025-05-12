@@ -20,8 +20,8 @@
     "oop-&-advanced-c#": true,
     "async-&-advanced-js": true,
     "database-integration-&-orm": true,
-    "advanced-api-integration": undefined, //In progress
-    "applied-agile-development": undefined, 
+    "advanced-api-integration": true, 
+    "applied-agile-development": undefined, //In progress
   }
 ```
 
